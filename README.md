@@ -19,7 +19,6 @@ agroforestry pattern gives different contribution for disease incidence and dise
 because of its enviromental factor. Development of gall rust disease is higher in low light intensity, high
 relative humidity and low temperature. The environment has influence on mode of pathogen
 dispersal, efficiency of pathogen survival, pathogen reproduction and level of aggresiveness of pathogen.
-This research was aimed to evaluated development of gall rust disease in various agroforestry pattern. 
+This research was aimed to evaluated development of gall rust disease in various agroforestry pattern
 
-
-![D1](https://user-images.githubusercontent.com/57382100/71856978-b98d9680-3120-11ea-9e4b-f463b2cab2e9.png)
+![D2](https://user-images.githubusercontent.com/57382100/71857049-06716d00-3121-11ea-8090-5388293145e7.png)
