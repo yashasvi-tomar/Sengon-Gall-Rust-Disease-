@@ -17,8 +17,8 @@ agroforestry pattern with various species composer, especially in community fore
 sengon will has influence on development of gall rust disease. Related to gall rust desease, each
 agroforestry pattern gives different contribution for disease incidence and disease severity of gall rust
 because of its enviromental factor. Development of gall rust disease is higher in low light intensity, high
-relative humidity and low temperature [1, 2, 3, 4]. The environment has influence on mode of pathogen
+relative humidity and low temperature. The environment has influence on mode of pathogen
 dispersal, efficiency of pathogen survival, pathogen reproduction and level of aggresiveness of pathogen.
 This research was aimed to evaluated development of gall rust disease in various agroforestry pattern. 
 
-https://github.com/yashasvi-tomar/Sengon-Gall-Rust-Disease-/issues/1#issue-545995993
+
