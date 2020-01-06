@@ -21,3 +21,4 @@ relative humidity and low temperature [1, 2, 3, 4]. The environment has influenc
 dispersal, efficiency of pathogen survival, pathogen reproduction and level of aggresiveness of pathogen.
 This research was aimed to evaluated development of gall rust disease in various agroforestry pattern. 
 
+https://github.com/yashasvi-tomar/Sengon-Gall-Rust-Disease-/issues/1#issue-545995993
