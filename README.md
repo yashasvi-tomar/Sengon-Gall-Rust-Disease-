@@ -22,3 +22,4 @@ dispersal, efficiency of pathogen survival, pathogen reproduction and level of a
 This research was aimed to evaluated development of gall rust disease in various agroforestry pattern
 
 ![D2](https://user-images.githubusercontent.com/57382100/71857049-06716d00-3121-11ea-8090-5388293145e7.png)
+![D1](https://user-images.githubusercontent.com/57382100/71857213-a6c79180-3121-11ea-8917-258a7ee0ccf5.png)
